@@ -35,7 +35,7 @@ const SidebarLeft: React.FC<SidebarLeftProps> = ({ services }) => {
             <div className="p-8 lg:p-10 bg-[#f8f9fc] dark:bg-gray-800 flex flex-col justify-center">
                 <p className="text-sm font-medium text-text-muted mb-4">هل لديك مشروع؟</p>
                 <a className="text-2xl font-black hover:text-primary transition-colors break-all leading-none mb-8 block" href="mailto:hello@johndoe.com">
-                    hello@johndoe.com
+                    benHamdan@outlook.com
                 </a>
                 <div className="flex gap-4">
                     <SocialLink icon="code" />
