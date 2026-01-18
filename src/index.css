@@ -1,7 +1,8 @@
 @import "tailwindcss";
 
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  /* font-family: 'theyearofhandicrafts', system-ui, Avenir, Helvetica, Arial, sans-serif; */
+  font-family: 'theyearofhandicrafts';
   line-height: 1.5;
   font-weight: 400;
 
@@ -13,6 +14,10 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.font-sans {
+  font-family: 'theyearofhandicrafts';
 }
 
 a {

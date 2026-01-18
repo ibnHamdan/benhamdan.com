@@ -16,10 +16,14 @@ export default {
                 "grid-line": "#e7ebf3",
             },
             fontFamily: {
-                sans: ["IBM Plex Sans Arabic", "sans-serif"],
-                display: ["IBM Plex Sans Arabic", "sans-serif"]
+                sans: ['theyearofhandicrafts'],
+                display: ["IBM Plex Sans Arabic"]
             },
         },
     },
     plugins: [],
 }
+
+
+// font-family:'theyearofhandicrafts'
+// "IBM Plex Sans Arabic"
